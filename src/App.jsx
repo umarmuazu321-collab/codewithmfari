@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { ArrowDownRight, ArrowRight, ArrowUpRight, BarChart3, Boxes, Check, ChevronDown, Code2, Menu, Package, ShoppingBasket, Sparkles, Store, Wallet, X, Zap } from 'lucide-react';
 
 const whatsapp = 'https://wa.me/2349110339814?text=' + encodeURIComponent("Hello CodeWithMfari, I'm interested in getting a digital solution for my business.");
